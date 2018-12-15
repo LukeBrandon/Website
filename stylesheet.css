@@ -1,0 +1,51 @@
+body {
+    margin:0;
+    background-color: lightslategray;
+  }
+  
+h1 {
+    color: black;
+    text-align: left;
+  }
+  
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+.intro {
+    width: 100%;
+    height: 500px;
+    background-image: url("resources/backgroundImage.jpg");
+    top: 0px;
+    left: 0px;
+}
+
+.navbar {
+    padding: 1%;
+    text-align: right;
+}
+.navbarElement {
+    padding: 1%;
+    color: white;
+
+}
+.header {
+    top: 15%;
+    font-size: 40px; 
+}
+
+.headerElement {
+    text-align: center;
+    color: white;
+}
+
+.main {
+    margin: 0;
+    left: 500px;
+}
+
+.footer {
+  background-color: slategray;
+  bottom: 100%;
+}
